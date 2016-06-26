@@ -1,0 +1,57 @@
+.container .row .col-md-6 .price{
+    margin:20px 0px;
+    padding:5px;
+    background:#eae9e9;
+}
+.container .row .col-md-6 .price h4 span{
+    color:#ff334b;
+    font-size:1.8em;
+}
+.container .row .col-md-6 .input-group{
+    width:120px;
+}
+.container .row .col-md-6 .input-group .input-group-addon{
+    cursor: pointer;
+}
+.container .row .col-md-6 .input-group input:focus{
+    border-color: #ff334b;
+    box-shadow: none;
+}
+.container .row .col-md-6 button{
+    margin:20px 10px 10px 0px;
+}
+.container .row .col-md-6 .add{
+    background:white;
+    color:#ff334b;
+    border:1px solid #ff334b;
+    font-weight: bold;
+}
+.container .row .col-md-6 .add:hover{
+    background:#fffafa;
+}
+.container .row .col-md-6 .add:active{
+    border:1px solid #ff334b;
+    outline: none;
+}
+.container .row .col-md-6 .add:focus{
+    border:1px solid #ff334b;
+    outline: none;
+}
+
+.container .row .col-md-6 .by-now{
+    background: #ff334b;
+    color:white;
+    border:1px solid #ff334b;
+    font-weight: bold;
+}
+.container .row .col-md-6 .by-now:hover{
+    background:#fc1e38;
+}
+.container .row .col-md-6 .by-now:active{
+    border:1px solid #ff334b;
+    outline: none;
+}
+.container .row .col-md-6 .by-now:focus{
+    border:1px solid #ff334b;
+    outline: none;
+}

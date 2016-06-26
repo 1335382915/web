@@ -1,0 +1,58 @@
+div{
+    text-align: center;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
+div .seconds{
+    color: #ff334b;
+}
+.email a{
+    color:#ff334b;
+}
+.email a:hover{
+    color: #ff334b;
+}
+.add-success h3{
+    margin-bottom:25px;
+}
+.add-success span{
+    padding:10px;
+}
+.add-success input{
+    border:1px solid #e7e7e7;
+}
+.add-success input:hover{
+    outline: none;
+    border:1px solid #ff334b;
+}
+.add-success #go{
+    background: #ff334b;
+    color:white;
+    border:1px solid #ff334b;
+    border-radius: 2px;
+}
+.add-success #go:hover,
+.add-success #go:focus{
+    background: #ff334b;
+    color:white;
+    border:1px solid #ff334b;
+    border-radius: 2px;
+    outline: none;
+}
+.add-success #back{
+    background: white;
+    color:#ff334b;
+    border:1px solid #ff334b;
+    border-radius: 2px;
+}
+.add-success #back:hover,
+.add-success #back:active,
+.add-success #back{
+    background: white;
+    color:#ff334b;
+    border:1px solid #ff334b;
+    border-radius: 2px;
+    outline: none;
+}
